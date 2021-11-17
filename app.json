@@ -2,8 +2,8 @@
   "name": "Klaxon",
   "description": "Watch webpages for newsworthy changes.",
   "keywords": [],
-  "website": "https://github.com/themarshallproject/klaxon",
-  "repository": "https://github.com/themarshallproject/klaxon",
+  "website": "https://github.com/will-ashworth/klaxon",
+  "repository": "https://github.com/will-ashworth/klaxon",
   "success_url": "/",
   "stack": "heroku-20",
   "scripts": {
