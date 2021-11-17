@@ -22,7 +22,7 @@ Klaxon enables users to "bookmark" portions of a webpage and be notified (via em
 
 [![Circle CI](https://circleci.com/gh/themarshallproject/klaxon.svg?style=svg)](https://circleci.com/gh/themarshallproject/klaxon)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/themarshallproject/klaxon/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/will-ashworth/klaxon/tree/master)
 
 ## Setting up your Klaxon
 
